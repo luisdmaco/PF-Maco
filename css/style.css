@@ -1,0 +1,116 @@
+header{
+    background-color: rgb(225, 241, 255);
+}
+
+.navbar-color{
+    background-color: rgb(225, 241, 255);
+}
+
+footer{
+    background-color: rgb(225, 241, 255);
+}
+
+/* transicionar pronto */
+.nosotros__box{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.nosotros__box__box{
+    margin: auto 3rem auto auto;
+    padding-right: 8rem;
+    padding-left: 1rem;
+    max-width: 50%;
+}
+
+#nosotros__box__box-2{
+    margin: 0 2rem auto auto;
+    padding-right: 1rem;
+}
+
+#nosotros__box__box--sizing{
+    max-width: 100%;
+    display: block;
+    margin: auto auto;
+}
+
+.nosotros__box__box__subtitle{
+    font-size: 2rem;
+    margin: 1rem auto 1.2rem auto;
+}
+
+.nosotros__box__box__subtitle2{
+    font-size: 1.7rem;
+    margin: 1rem auto 1.2rem auto;
+}
+
+.nosotros__box__box__text{
+    font-size: 1.4rem;
+    line-height: 1.8;
+}
+
+.nosotros__box__box__subbox{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* especialidades */
+
+.especialidades__flex{
+    display: flex;
+    flex-flow: row wrap;
+/*     flex-direction: row;
+    flex-wrap: wrap; */
+    justify-content: space-around;
+}
+
+.especialidades__box{
+    width: 300px;
+    height: 350px;
+    padding: 2rem 2rem;
+    margin: 1rem 8rem;
+    background: rgb(216, 235, 250);
+    box-shadow: 0 10px 30px -10px rgba(47, 94, 100, 0.45);
+}
+
+.especialidades__box__subtitle{
+    font-size: 2rem;
+    margin: 1rem auto 1.2rem auto;
+    text-align: center;
+}
+
+.especialidades__box__text{
+    font-size: 1.4rem;
+    line-height: 1.3;
+}
+
+.especialidades__box--sizing{
+    max-width: 100%;
+    display: block;
+    margin: auto auto;
+}
+
+/* sedes */
+
+.sedes--subtitle-fix{
+    font-size: 2rem;
+    margin: 1rem auto 1.2rem auto;
+}
+
+/* contactenos */
+.contactenos__subtitle{
+    font-size: 2rem;
+    margin: 1rem auto 1.2rem auto;
+}
+
+.contactenos__text{
+    font-size: 1.4rem;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+}
+
+#nombres_apellidos{
+    width: 70%;
+}
