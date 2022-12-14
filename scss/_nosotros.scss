@@ -1,0 +1,44 @@
+.nosotros__box{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.nosotros__box__box{
+    margin: auto 3rem auto auto;
+    padding-right: 8rem;
+    padding-left: 1rem;
+    max-width: 50%;
+}
+
+#nosotros__box__box-2{
+    margin: 0 2rem auto auto;
+    padding-right: 1rem;
+}
+
+#nosotros__box__box--sizing{
+    max-width: 100%;
+    display: block;
+    margin: auto auto;
+}
+
+.nosotros__box__box__subtitle{
+    font-size: 2rem;
+    margin: 1rem auto 1.2rem auto;
+}
+
+.nosotros__box__box__subtitle2{
+    font-size: 1.7rem;
+    margin: 1rem auto 1.2rem auto;
+}
+
+.nosotros__box__box__text{
+    font-size: 1.4rem;
+    line-height: 1.8;
+}
+
+.nosotros__box__box__subbox{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
