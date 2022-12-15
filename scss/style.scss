@@ -1,6 +1,16 @@
 @import "colors";
-
 @import "nosotros";
 @import "especialidades";
 @import "sedes";
 @import "contacto";
+footer{
+    div{
+        div{
+            ul{
+                li{
+                    list-style-type: none;
+                }
+            }
+        }
+    }
+}

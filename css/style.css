@@ -112,4 +112,8 @@ footer {
   width: 70%;
 }
 
+footer div div ul li {
+  list-style-type: none;
+}
+
 /*# sourceMappingURL=style.css.map */
